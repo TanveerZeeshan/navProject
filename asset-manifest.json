@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/navProject/static/css/main.61c60adc.css",
+    "main.js": "/navProject/static/js/main.802a50e2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/navProject/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/navProject/index.html",
+    "main.61c60adc.css.map": "/navProject/static/css/main.61c60adc.css.map",
+    "main.802a50e2.js.map": "/navProject/static/js/main.802a50e2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/navProject/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61c60adc.css",
+    "static/js/main.802a50e2.js"
+  ]
+}
